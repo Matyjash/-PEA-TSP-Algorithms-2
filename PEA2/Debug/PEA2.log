@@ -1,0 +1,17 @@
+﻿  DP.cpp
+  File.cpp
+  Graph.cpp
+  PEA_2.cpp
+  Random.cpp
+  SA.cpp
+C:\Users\lengo\source\repos\PEA2\PEA2\SA.cpp(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\lengo\source\repos\PEA2\PEA2\SA.cpp(13,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA2\PEA2\SA.cpp(115,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\lengo\source\repos\PEA2\PEA2\SA.cpp(123,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lengo\source\repos\PEA2\PEA2\SA.cpp(179,35): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  TS.cpp
+C:\Users\lengo\source\repos\PEA2\PEA2\TS.cpp(6,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\lengo\source\repos\PEA2\PEA2\TS.cpp(15,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA2\PEA2\TS.cpp(182,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  PEA2.vcxproj -> C:\Users\lengo\source\repos\PEA2\Debug\PEA2.exe
