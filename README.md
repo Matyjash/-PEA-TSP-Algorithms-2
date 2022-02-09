@@ -5,7 +5,8 @@ The program can solve Traveling Salesman problem with 2 heuristic algorithms:
 - Tabu Search
 - Simulated Anneling
 
-It returns the best found path and it's length. The starting node/city is always 0.
+It returns the best found path and it's length. The starting node/city is always 0.  
+![scrn1](/sc2.jpg)
 ## Usage
 To test the program user can either generate a random graph or load one from .txt file. U can also specify time of searching in menu of the program.
 ### Txt file format
